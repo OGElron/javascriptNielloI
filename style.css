@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(53, 53, 122);
+    font-family:  'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    color: blue;
+}
+h3 {
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    color: red;
+}
+h5 {
+    color: azure;
+}
+footer {
+    position: absolute;
+    align-items: baseline;
+}
